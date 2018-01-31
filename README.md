@@ -1,2 +1,2 @@
 # happybirthday
-the website give to my friend fot her birthday.
+For my friend.
